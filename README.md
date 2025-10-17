@@ -78,3 +78,7 @@ Có gợi ý phim liên quan hoặc phim cùng thể loại.
 
 # Sơ đồ hệ thống Website
 ## Sơ đồ chức năng
+
+<img width="471" height="902" alt="image" src="https://github.com/user-attachments/assets/162d95cb-e13b-4843-ba1f-9ff10e1a7f4e" />
+
+
