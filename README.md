@@ -329,9 +329,60 @@ class IndexController extends Controller
 
    <img width="1199" height="598" alt="image" src="https://github.com/user-attachments/assets/d024f3b3-0a21-4f2e-afe7-8ac98c10c10a" />
 
-3.Trang chủ 
+3.Trang Admin 
 
   <img width="1890" height="918" alt="image" src="https://github.com/user-attachments/assets/1a6b4c61-7cd3-40ba-9840-45d8308dcbad" />
+
+4. Chi tiết phim
+
+   <img width="1364" height="910" alt="image" src="https://github.com/user-attachments/assets/b2a75a13-7c71-4975-8e95-080ea4662214" />
+
+5.Trang quản lý phim
+
+
+   <img width="988" height="902" alt="image" src="https://github.com/user-attachments/assets/0b2d8d87-f06f-4367-9a3f-3aa088fe3d2b" />
+
+   <img width="967" height="928" alt="image" src="https://github.com/user-attachments/assets/84f3be57-5f68-411b-9b35-e17d1f37dfbd" />
+
+6. Giao diện quản lý danh sách phim
+
+   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47a13b08-0329-4ca2-9eeb-5ebd11752f22" />
+
+   🧩 Chức năng chính của Trang quản lý phim và giao diện quản lý danh sách phim
+
+Cho phép quản trị viên nhập thông tin phim mới vào hệ thống.
+
+Các trường nhập bao gồm:
+
+Tên phim
+
+Số tập phim
+
+Thời lượng
+
+Tên tiếng Anh
+
+Trailer
+
+Đường dẫn
+
+Mô tả phim
+
+Tags phim
+...
+
+Có nút để lưu phim vào cơ sở dữ liệu , quay lại trang danh sách phim và có thể sửa xóa ở phần danh sách phim nếu quản trị viên 
+
+
+   
+
+
+
+
+
+
+   
+   
 
    
 
