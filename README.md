@@ -31,11 +31,13 @@ Hiển thị danh sách các phim nổi bật, mới cập nhật hoặc đượ
 
 Có thanh tìm kiếm và bộ lọc theo thể loại, năm phát hành, quốc gia.
 
+
 📂 2. Trang danh mục phim (Category Page)
 
 Hiển thị phim theo thể loại (hành động, tình cảm, kinh dị,…).
 
 Cho phép sắp xếp theo tên, ngày đăng, lượt xem.
+
 
 🔍 3. Tìm kiếm phim (Search)
 
@@ -43,17 +45,20 @@ Người dùng có thể nhập tên phim để tìm nhanh.
 
 Kết quả hiển thị danh sách phim khớp với từ khóa.
 
+
 🎥 4. Trang xem phim (Watch Page)
 
 Phát video phim (thường là embed hoặc file lưu trên server/CDN).
 
 Hiển thị thông tin chi tiết: tên phim, mô tả, diễn viên, năm phát hành.
 
+
 👤 5. Đăng nhập / Đăng ký (Authentication)
 
 Cho phép người dùng đăng nhập, đăng ký tài khoản.
 
 Có thể lưu lịch sử xem phim, yêu thích phim.
+
 
 ⭐ 6. Quản trị viên (Admin Panel)
 
@@ -63,11 +68,13 @@ Quản lý thể loại, diễn viên, năm phát hành, ảnh thumbnail, traile
 
 Quản lý người dùng (nếu có tính năng thành viên).
 
+
 💾 7. Lưu dữ liệu (Database Integration)
 
 Toàn bộ thông tin phim, tài khoản người dùng, thể loại được lưu trong cơ sở dữ liệu (MySQL hoặc SQLite).
 
 Các model trong Laravel như Movie, Category, User, v.v. quản lý dữ liệu này.
+
 
 🌐 8. Giao diện người dùng (Frontend)
 
@@ -76,6 +83,7 @@ Sử dụng HTML, CSS, JS (và có thể Blade template trong Laravel).
 Giao diện thân thiện, responsive để xem trên điện thoại và máy tính.
 
 Có gợi ý phim liên quan hoặc phim cùng thể loại.
+
 
 # Sơ đồ hệ thống Website
 ## Sơ đồ chức năng
