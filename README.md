@@ -3,7 +3,7 @@
 # Sinh viên thực hiện
 - **Họ và tên:** Nguyễn Thị Lan Anh  
 - **Mã sinh viên:** 23010823 
-- **Lớp:** Thiết kế web nâng cao-1-1-25 (COUR01.)
+- **Lớp:** Thiết kế web nâng cao-1-1-25 (COUR01.TH5)
   ***
 # Mô Tả Dự Án
 📖 Giới thiệu
