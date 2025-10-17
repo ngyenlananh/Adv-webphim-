@@ -13,11 +13,12 @@ Người dùng có thể tìm kiếm, xem thông tin phim, trailer, và xem phim
 Quản trị viên có thể quản lý danh sách phim, thể loại, tài khoản người dùng và các nội dung liên quan.
 
 ## Công nghệ sử dụng
-Ngôn ngữ lập trình: PHP , blade 
+Ngôn ngữ lập trình: PHP 
 
 Framework: Laravel
+Ngôn ngữ giao diện (Frontend):HTML, CSS, JavaScript,Blade
 
-Cơ sở dữ liệu: MySQL( qua XAMPP) 
+Cơ sở dữ liệu:MySQL (thông qua thư mục database và file .env để cấu hình kết nối).
 
 Công cụ phát triển: Visual Studio Code, XAMPP
 
