@@ -347,8 +347,9 @@ class IndexController extends Controller
 6. Giao diện quản lý danh sách phim
 
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/47a13b08-0329-4ca2-9eeb-5ebd11752f22" />
+   
 
-   🧩 Chức năng chính của Trang quản lý phim và giao diện quản lý danh sách phim
+🧩 Chức năng chính của Trang quản lý phim và giao diện quản lý danh sách phim
 
 Cho phép quản trị viên nhập thông tin phim mới vào hệ thống.
 
@@ -371,7 +372,7 @@ Mô tả phim
 Tags phim
 ...
 
-Có nút để lưu phim vào cơ sở dữ liệu , quay lại trang danh sách phim và có thể sửa xóa ở phần danh sách phim nếu quản trị viên 
+Có nút để lưu phim vào cơ sở dữ liệu , quay lại trang danh sách phim và có thể sửa xóa ở phần danh sách phim nếu quản trị viên muốn.
 
 
    
