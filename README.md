@@ -422,14 +422,14 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
     Quốc gia: Xuất xứ phim (Mỹ).
 
     Chất lượng mới nhất: Ví dụ như HD FullHD.
-   ***Nội dung phim: Mô tả tóm tắt cốt truyện để người dùng nắm bắt nội dung chính***
-   ***Trang chi tiết phim là một phần quan trọng trong trải nghiệm người dùng, cung cấp thông tin nhanh chóng và đầy đủ, từ đó giúp người xem đưa ra quyết định dễ dàng hơn khi lựa chọn phim để xem***
+   Nội dung phim: Mô tả tóm tắt cốt truyện để người dùng nắm bắt nội dung chính
+   Trang chi tiết phim là một phần quan trọng trong trải nghiệm người dùng, cung cấp thông tin nhanh chóng và đầy đủ, từ đó giúp người xem đưa ra quyết định dễ dàng hơn khi lựa chọn phim để xem
 
 
 
    <img width="1061" height="918" alt="image" src="https://github.com/user-attachments/assets/fc6bd8dc-5b2a-4648-95e2-5dc866e57cca" />
   
-   ***Khu vực bình luận***
+    ***Khu vực bình luận***
 
      Nằm ở phần trên cùng của giao diện chi tiết phim.
 
@@ -449,7 +449,7 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
 
      Nút tương tác: “Thích”, “Trả lời”.
 
-  ***Khu vực Trailer phim***
+   ***Khu vực Trailer phim***
 
       Có tiêu đề “TRAILER PHIM” để người xem dễ nhận biết.
 
@@ -477,7 +477,7 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
 
         Cột phải: danh sách gợi ý và phim sắp chiếu.
 
-        ***Mục đích và trải nghiệm người dùng***
+    ***Mục đích và trải nghiệm người dùng***
 
         Giúp người dùng
 
@@ -526,6 +526,9 @@ Tags phim
 ...
 
 Có nút để lưu phim vào cơ sở dữ liệu , quay lại trang danh sách phim và có thể sửa xóa ở phần danh sách phim nếu quản trị viên muốn.
+
+
+
 
 
    
