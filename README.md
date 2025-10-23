@@ -400,8 +400,6 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
 
    <img width="1364" height="910" alt="image" src="https://github.com/user-attachments/assets/b2a75a13-7c71-4975-8e95-080ea4662214" />
 
-   <img width="1061" height="918" alt="image" src="https://github.com/user-attachments/assets/fc6bd8dc-5b2a-4648-95e2-5dc866e57cca" />
-
 
     ***Trang chi tiết phim cung cấp đầy đủ thông tin về bộ phim được chọn, giúp người dùng có cái nhìn tổng quan trước khi xem. Giao diện được thiết kế trực quan, với bố cục rõ ràng, chia thành các phần như sau***
    
@@ -424,9 +422,73 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
     Quốc gia: Xuất xứ phim (Mỹ).
 
     Chất lượng mới nhất: Ví dụ như HD FullHD.
+   ***Nội dung phim: Mô tả tóm tắt cốt truyện để người dùng nắm bắt nội dung chính***
+   ***Trang chi tiết phim là một phần quan trọng trong trải nghiệm người dùng, cung cấp thông tin nhanh chóng và đầy đủ, từ đó giúp người xem đưa ra quyết định dễ dàng hơn khi lựa chọn phim để xem***
 
-***Nội dung phim: Mô tả tóm tắt cốt truyện để người dùng nắm bắt nội dung chính***
-***Trang chi tiết phim là một phần quan trọng trong trải nghiệm người dùng, cung cấp thông tin nhanh chóng và đầy đủ, từ đó giúp người xem đưa ra quyết định dễ dàng hơn khi lựa chọn phim để xem***
+
+
+   <img width="1061" height="918" alt="image" src="https://github.com/user-attachments/assets/fc6bd8dc-5b2a-4648-95e2-5dc866e57cca" />
+  
+   ***Khu vực bình luận***
+
+     Nằm ở phần trên cùng của giao diện chi tiết phim.
+
+     Người dùng có thể:
+
+     Xem các bình luận trước đó từ người xem khác.
+
+     Thả “Thích”, “Trả lời” bình luận.
+
+     Gửi bình luận thông qua plugin bình luận của Facebook, giúp liên kết tài khoản người dùng và tăng tính tương tác xã hội.
+
+     Mỗi bình luận hiển thị:
+
+     Tên người dùng.
+
+     Thời gian bình luận (ví dụ: “1 tuần trước”, “1 ngày trước”).
+
+     Nút tương tác: “Thích”, “Trả lời”.
+
+  ***Khu vực Trailer phim***
+
+      Có tiêu đề “TRAILER PHIM” để người xem dễ nhận biết.
+
+      Ở giữa giao diện là trình phát video YouTube được nhúng (embedded) — cho phép người dùng xem trailer ngay trên trang mà không cần chuyển hướng sang YouTube.
+
+      Video hiển thị các thông tin cơ bản:
+
+      Tên trailer: No Game No Life: Zero - Official Trailer.
+
+      Thanh điều khiển video: bao gồm nút phát/tạm dừng, thanh thời lượng, và chế độ toàn màn hình.
+
+      Thời lượng hiển thị: 1:43 (đoạn video đang được phát ở giây 0:22).
+
+      Có thể chia sẻ hoặc thêm vào danh sách “Xem sau”.
+
+      ***Tổng quan bố cục và màu sắc***
+
+        Màu nền chủ đạo: đen – giúp làm nổi bật poster và video trailer.
+
+        Chữ tiêu đề và nhãn: màu vàng hoặc trắng, tương phản tốt với nền.
+
+        Bố cục chia cột rõ ràng:
+
+        Cột trái: nội dung phim và trailer.
+
+        Cột phải: danh sách gợi ý và phim sắp chiếu.
+
+        ***Mục đích và trải nghiệm người dùng***
+
+        Giúp người dùng
+
+        Xem nhanh trailer của bộ phim.
+
+        Đọc và tham gia bình luận.
+
+        Khám phá các bộ phim khác có liên quan.
+
+        Giao diện thân thiện, trực quan, dễ sử dụng và hỗ trợ xem video trực tiếp.
+
 
 5.Trang quản lý phim
 
