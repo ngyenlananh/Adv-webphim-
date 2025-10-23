@@ -334,17 +334,96 @@ class IndexController extends Controller
 
    <img width="1127" height="428" alt="image" src="https://github.com/user-attachments/assets/e18cd28b-3884-4a3a-8698-660d2c8d3a48" />
 
+      ***Người dùng truy cập vào trang đăng nhập sẽ thấy giao diện gồm các thành phần chính***
+
+        Trường “E-Mail Address”: nơi người dùng nhập địa chỉ email đã đăng ký tài khoản.
+
+        Trường “Password”: nơi nhập mật khẩu tương ứng với tài khoản.
+
+        Tùy chọn “Remember Me”: giúp lưu phiên đăng nhập cho lần truy cập sau.
+
+        Nút “Login”: gửi thông tin lên server để xác thực người dùng.
+
+        Liên kết “Forgot Your Password?”: hỗ trợ người dùng đặt lại mật khẩu khi quên.
+   Nếu thông tin hợp lệ, người dùng sẽ được chuyển hướng đến trang quản trị hoặc trang chủ của website. Nếu sai, hệ thống sẽ hiển thị thông báo lỗi tương ứng.
+
 2.Đăng kí 
 
    <img width="1199" height="598" alt="image" src="https://github.com/user-attachments/assets/d024f3b3-0a21-4f2e-afe7-8ac98c10c10a" />
+
+    ***Giao diện gồm các thành phần chính***
+
+        Name: người dùng nhập tên hiển thị của mình.
+
+        E-Mail Address: địa chỉ email dùng để đăng ký và nhận thông báo từ hệ thống.
+
+        Password: mật khẩu dùng để đăng nhập.
+
+       Confirm Password: nhập lại mật khẩu để xác nhận, tránh sai sót.
+
+       Nút “Register”: khi nhấn, hệ thống sẽ kiểm tra tính hợp lệ của thông tin nhập vào.
+
+       Nếu người dùng nhập đúng định dạng và email chưa được sử dụng, tài khoản sẽ được tạo và lưu vào cơ sở dữ liệu. Sau đó, hệ thống có thể tự động chuyển hướng đến trang đăng nhập hoặc trang chủ.
+Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị thông báo lỗi cụ thể để người dùng sửa lại thông tin.
+
+→ Chức năng đăng ký giúp đảm bảo mỗi người dùng có tài khoản riêng biệt, phục vụ cho quá trình quản lý và bảo mật hệ thống.
+
 
 3.Trang Admin 
 
   <img width="1890" height="918" alt="image" src="https://github.com/user-attachments/assets/1a6b4c61-7cd3-40ba-9840-45d8308dcbad" />
 
+   ***Giao diện trang được thiết kế trực quan, gồm các thành phần chính***
+
+     - Thanh menu điều hướng (Navigation Bar) ở phía trên cho phép admin truy cập nhanh đến các danh mục:
+
+         Trang chủ, Thể loại, Quốc gia, Năm phim, Phim chiếu rạp, Phim lẻ, Phim mới, Phim thuyết minh, Phim hoạt hình, Phim bộ.
+
+     - Thanh tìm kiếm (Search bar) giúp tìm nhanh phim theo tên.
+
+     - Khu vực lọc phim (Lọc phim) cho phép lọc theo thể loại hoặc trạng thái (phim mới, phim hot, phim chiếu rạp…).
+
+     - Danh sách phim hiển thị (Phim hot, Phim chiếu rạp, Phim mới...) được sắp xếp theo từng mục riêng. Mỗi phim có ảnh đại diện, tiêu đề, định dạng (HD, Trailer, HDCam, Phụ đề...), cùng thông tin lượt xem.
+
+    * Tại đây, admin có thể thực hiện các chức năng như:
+
+          Thêm mới phim, chỉnh sửa thông tin, xóa phim cũ.
+
+          Cập nhật thể loại, quốc gia, năm sản xuất.
+
+          Theo dõi lượng xem và tình trạng phim để điều chỉnh nội dung phù hợp.
+
+  → Trang Admin là thành phần quan trọng trong hệ thống, giúp quản lý toàn bộ dữ liệu phim, đảm bảo website luôn hiển thị thông tin chính xác và cập nhật.
+
+
 4. Chi tiết phim
 
    <img width="1364" height="910" alt="image" src="https://github.com/user-attachments/assets/b2a75a13-7c71-4975-8e95-080ea4662214" />
+
+    ***Trang chi tiết phim cung cấp đầy đủ thông tin về bộ phim được chọn, giúp người dùng có cái nhìn tổng quan trước khi xem. Giao diện được thiết kế trực quan, với bố cục rõ ràng, chia thành các phần như sau***
+   
+    Tên phim: Hiển thị tên gốc và tên tiếng Việt (ví dụ: Chú Chó Lulu – Dog).
+
+    Ảnh bìa phim: Hiển thị poster phim kèm nút phát trailer.
+
+    Thông tin phim: Bao gồm:
+
+    Trạng thái: Định dạng (HD), tình trạng phụ đề (Phụ đề).
+
+    Thời lượng: Tổng thời gian của phim (133 phút).
+
+    Tập phim: Cho biết định dạng của tập phim (FullHD).
+
+    Thể loại: Liệt kê các thể loại phim liên quan (Hành Động, Hài Hước, Lãng Mạn).
+
+    Danh mục: Thuộc nhóm phim chiếu rạp.
+
+    Quốc gia: Xuất xứ phim (Mỹ).
+
+    Chất lượng mới nhất: Ví dụ như HD FullHD.
+
+***Nội dung phim: Mô tả tóm tắt cốt truyện để người dùng nắm bắt nội dung chính***
+***Trang chi tiết phim là một phần quan trọng trong trải nghiệm người dùng, cung cấp thông tin nhanh chóng và đầy đủ, từ đó giúp người xem đưa ra quyết định dễ dàng hơn khi lựa chọn phim để xem***
 
 5.Trang quản lý phim
 
