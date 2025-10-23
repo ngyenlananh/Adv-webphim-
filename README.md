@@ -400,6 +400,9 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
 
    <img width="1364" height="910" alt="image" src="https://github.com/user-attachments/assets/b2a75a13-7c71-4975-8e95-080ea4662214" />
 
+   <img width="1061" height="918" alt="image" src="https://github.com/user-attachments/assets/fc6bd8dc-5b2a-4648-95e2-5dc866e57cca" />
+
+
     ***Trang chi tiết phim cung cấp đầy đủ thông tin về bộ phim được chọn, giúp người dùng có cái nhìn tổng quan trước khi xem. Giao diện được thiết kế trực quan, với bố cục rõ ràng, chia thành các phần như sau***
    
     Tên phim: Hiển thị tên gốc và tên tiếng Việt (ví dụ: Chú Chó Lulu – Dog).
