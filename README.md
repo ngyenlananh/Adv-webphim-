@@ -424,8 +424,9 @@ Trong trường hợp nhập sai hoặc trùng email, Laravel sẽ hiển thị 
     Chất lượng mới nhất: Ví dụ như HD FullHD.
    Nội dung phim: Mô tả tóm tắt cốt truyện để người dùng nắm bắt nội dung chính
    Trang chi tiết phim là một phần quan trọng trong trải nghiệm người dùng, cung cấp thông tin nhanh chóng và đầy đủ, từ đó giúp người xem đưa ra quyết định dễ dàng hơn khi lựa chọn phim để xem
+   
 
-
+     ***XEM PHIM***
 
    <img width="1061" height="918" alt="image" src="https://github.com/user-attachments/assets/fc6bd8dc-5b2a-4648-95e2-5dc866e57cca" />
   
